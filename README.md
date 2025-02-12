@@ -18,6 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engraakashalikhuhro&show_icons=true&locale=en&layout=compact" alt="engraakashalikhuhro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engraakashalikhuhro&show_icons=true&locale=en" alt="engraakashalikhuhro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engraakashalikhuhro&" alt="engraakashalikhuhro" /></p>
 ![snake gif](https://github.com/EngrAakashAliKhuhro/EngrAakashAliKhuhro/blob/output/github-snake-dark.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engraakashalikhuhro&" alt="engraakashalikhuhro" /></p>
+
